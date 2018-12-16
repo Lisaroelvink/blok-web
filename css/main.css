@@ -1,0 +1,47 @@
+body {
+    background-color: #eaedee;
+}
+
+header {
+    font-family: dfds-light;
+}
+section, header, nav {
+    background-color: white;
+    margin: 10px;
+    
+}
+article {
+  width:20em;
+  margin: 1em;
+  margin-top: 2em;
+  padding: 1em;
+}
+
+img {
+  width:100%;
+  width: calc(100% + 2em);
+  border: 1px solid silver;
+  margin-left:-1em;
+  margin-top:-1em;
+}
+
+h2 {
+    font-family: dfds-bold;
+    text-transform: uppercase;
+    font-size:26px;
+    color: #000000;
+}
+
+h3 {
+    font-family: dfds-bold;
+}
+
+p {
+    font-family: Segoe UI;
+}
+
+header img {
+    display: block;
+    width: 150px;
+    height: auto;
+}
